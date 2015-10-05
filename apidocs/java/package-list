@@ -1,0 +1,11 @@
+org.mule.modules.googletranslatejersey
+org.mule.modules.googletranslatejersey.adapter
+org.mule.modules.googletranslatejersey.adapters
+org.mule.modules.googletranslatejersey.agents
+org.mule.modules.googletranslatejersey.client
+org.mule.modules.googletranslatejersey.config
+org.mule.modules.googletranslatejersey.devkit
+org.mule.modules.googletranslatejersey.entities
+org.mule.modules.googletranslatejersey.exception
+org.mule.modules.googletranslatejersey.processors
+
